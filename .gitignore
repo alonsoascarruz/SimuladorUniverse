@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+.vscode/
+.idea/
+
+# Ursina
+*.ursinamesh
+*.bam
+
+# Build
+dist/
+build/
+
+# Logs
+*.log
