@@ -20,3 +20,17 @@ Simulación gravitacional 3D desarrollada en Python utilizando Ursina Engine.
 pip install ursina
 
 python universe.py
+
+## Futuras funciones
+- Colores según masa
+    - Pequeñas = azules
+    - Medianas = amarillas
+    - Grandes = rojas
+- Trails (estelas) para ver las órbitas.
+- Temperatura
+Cada choque genera calor.
+- Explosiones
+  - Si una partícula supera cierta masa.
+- Tipos de partículas
+  - Tipo A + Tipo A → Tipo B
+  - Tipo B + Tipo C → Tipo D
